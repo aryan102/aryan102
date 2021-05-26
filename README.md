@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Srivastava
 - 👀 I’m interested in making websites and doing technical stuff
-- 🌱 I’m currently learning IT from VIT Vellore
+- 🌱 I’m currently learning Information Technology from VIT Vellore
 - 💞️ I’m looking to collaborate on people with experiences from different expertise.
 
 <!---
